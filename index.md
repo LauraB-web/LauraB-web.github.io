@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+Here you will learn I can be a valuable asset
 
-You can use the [editor on GitHub](https://github.com/LauraB-web/LauraB-web.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I have been a classroom teacher for the past 20 years, including 3-8th grade. I originally taught in Arizona for three years, then moved to Raleigh and I taught here for the duration of that time. I am also a National Board Certified Teacher. Three years ago, I entered the MLIS program at UNC-G. I will graduate in December 2020. I was offered a job at Harris Creek Elementary in January 2020 to become the media specialist. Last year I received the NCSLMA Scholarship.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Although I have only been a media specialist for a short while, I am looking forward to applying my skills as a teacher and the valuable knowledge I am obtaining from the MLIS program. I am also building my professional network through my classmates, veteran librarians in Wake County, and other librarians on social media.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LauraB-web/LauraB-web.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Laura Bonham, NCBT
+Media Specialist
+Harris Creek Elementary 
