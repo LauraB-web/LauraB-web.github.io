@@ -7,3 +7,6 @@ Although I have only been a media specialist for a short while, I am looking for
 Laura Bonham, NBCT
 Media Specialist
 Harris Creek Elementary 
+
+
+![image](https://user-images.githubusercontent.com/61069679/74592383-c68a8900-4fee-11ea-9236-74797e35c2af.png)
