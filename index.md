@@ -4,9 +4,13 @@ I have been a classroom teacher for the past 20 years, including 3-8th grade. I 
 
 Although I have only been a media specialist for a short while, I am looking forward to applying my skills as a teacher and the valuable knowledge I am obtaining from the MLIS program. I am also building my professional network through my classmates, veteran librarians in Wake County, and other librarians on social media.
 
+
 Laura Bonham, NBCT
 Media Specialist
-Harris Creek Elementary 
+[Harris Creek Elementary](https://www.wcpss.net/harriscreekes)
+Follow me on Twitter @BonhamLaura
+
+
 
 
 ![image](https://user-images.githubusercontent.com/61069679/74592383-c68a8900-4fee-11ea-9236-74797e35c2af.png)
