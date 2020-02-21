@@ -6,8 +6,11 @@ Although I have only been a media specialist for a short while, I am looking for
 
 
 Laura Bonham, NBCT
+
 Media Specialist
+
 [Harris Creek Elementary](https://www.wcpss.net/harriscreekes)
+
 Follow me on Twitter @BonhamLaura
 
 
