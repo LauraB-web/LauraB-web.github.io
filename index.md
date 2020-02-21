@@ -4,6 +4,8 @@ I have been a classroom teacher for the past 20 years, including 3-8th grade. I 
 
 Although I have only been a media specialist for a short while, I am looking forward to applying my skills as a teacher and the valuable knowledge I am obtaining from the MLIS program. I am also building my professional network through my classmates, veteran librarians in Wake County, and other librarians on social media.
 
+[Resume](https://github.com/LauraB-web/LauraB-web.github.io/blob/master/Laura%20Bonham%20resume%202017.doc.pdf)
+
 
 Laura Bonham, NBCT
 
