@@ -1,4 +1,4 @@
-Here you will learn I can be a valuable asset
+Here you will learn how I can be a valuable asset
 
 I have been a classroom teacher for the past 20 years, including 3-8th grade. I recieved my Bachelor's in Elementary Education from Arizona State University and taught in Arizona for three years. I moved to Raleigh and I taught here for the duration of that time. I am also a National Board Certified Teacher. Three years ago, I entered the MLIS program at UNC-G. I will graduate in December 2020. I was offered a job at Harris Creek Elementary in January 2020 to become the media specialist. Last year I received the NCSLMA Scholarship.
 
