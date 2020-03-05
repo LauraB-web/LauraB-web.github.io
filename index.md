@@ -6,8 +6,12 @@ Although I have only been a media specialist for a short while, I am looking for
 
 [Resume](https://LauraB-web.github.io/Laura Bonham resume 2017.doc.pdf)
 
+Video Book Talks
 
+[Lunch Bunch for Elementary Students](https://www.youtube.com/watch?v=94ScK8gn_-w&t=7s)
 
+[Books with Thought Provoking Themes for High Schoolers](https://www.youtube.com/watch?v=XfgETxBUhaM&t=1s)
+  
 
 Laura Bonham, NBCT
 
